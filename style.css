@@ -1,0 +1,28 @@
+
+
+#vasi-section {
+    background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.jesi-bar {
+    display: flex;
+    justify-content: end;
+
+
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    margin: auto;
+}
+
+
+
